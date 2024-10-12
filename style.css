@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    background-color: #656f8b;
+  }
+  
+  h1 {
+    font-size: 7rem;
+    color: #30515c;
+    font-family:"bold", capital;
+    text-shadow: 4px 5px #d42875;
+  
+  }
+  
+  .Sa {
+  
+    background-image: url("images/cookie.jpg");
+  }
+  
+  .Re {
+    
+   
+    background-image: url("images/images.png");
+  }
+  
+  .Ga {
+   
+    background-image: url("images/hiit.webp");
+  }
+  
+  .Ma {
+   
+    background-image: url("images/cookie.jpg");
+  }
+  
+  .Pa {
+   
+    background-image: url("images/few.png");
+  }
+  
+  .Da {
+   
+    background-image: url("images/crash.png");
+  }
+  
+  .Ni {
+   
+    background-image: url("images/folk.png");
+  }
+ 
+  .set {
+    margin: 10% auto;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .drum {
+    outline: none;
+    border: 10px solid #4c5877;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #bbdde9;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+  
